@@ -37,7 +37,3 @@
 - **Edit Request**: Users can edit a request by clicking on the gear icon, selecting the edit option, and updating items in a pre-filled form.
 - **Delete Request**: Users can delete a request by clicking on the gear icon, selecting the delete option, and confirming deletion in a prompt.
 - **Order Requests**: Orders requests by inserting consolidated order records into the summary table.
-
-## Screenshots
-
-[Watch the Video](https://www.awesomescreenshot.com/video/20765654)
